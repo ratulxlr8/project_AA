@@ -2,8 +2,11 @@
   background-color: green;
 }
 .cusbg-link {
-  background-color: #c5e0b5;
+  background-color: #255c06;
 }
 .cus-height {
-  height: 60vh;
+  height: 2vh;
+}
+.image-custom-width {
+  width: 20%;
 }
